@@ -1,11 +1,3 @@
 INDEX VERSION 1.132+D:\workspace-javafx\.metadata\.plugins\org.eclipse.jdt.core
-1308761880.index
-268296869.index
 1865797976.index
-3565355239.index
-1089571445.index
-2096801042.index
-3589582463.index
-4119828555.index
-3376472041.index
-214092133.index
+497444433.index
